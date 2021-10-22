@@ -1,0 +1,19 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigille/npmtest.git"
+  },
+  "author": "Rígille S. B. Menezes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigille/npmtest/issues"
+  },
+  "homepage": "https://github.com/rigille/npmtest#readme"
+}
